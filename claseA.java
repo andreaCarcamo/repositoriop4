@@ -1,8 +1,10 @@
 public class claseA{
 
   private int x;
+  private int y;
   
   public claseA(){
-  int  x=0;
+  x=0;
+  y=0;
   }
 }
